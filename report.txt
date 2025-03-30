@@ -1,0 +1,110 @@
+Info: Processing symbol 'A1:Module:Arduino_UNO_R3'.
+Info: Processing symbol 'D1:LED_THT:LED_D5.0mm_FlatTop'.
+Info: Processing symbol 'M1:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Updated A1 fields.
+Updated A1 sheetname to 'Root'.
+Updated A1 sheetfile to 'design.kicad_sch'.
+Updated A1 footprint filters to 'Arduino*UNO*R3*'.
+Add net unconnected-(A1-D1/TX-Pad16).
+Connected A1 pin 16 to unconnected-(A1-D1/TX-Pad16).
+Add net unconnected-(A1-D7-Pad22).
+Connected A1 pin 22 to unconnected-(A1-D7-Pad22).
+Add net Net-(M1--).
+Connected A1 pin 29 to Net-(M1--).
+Add net unconnected-(A1-SDA/A4-Pad13).
+Connected A1 pin 13 to unconnected-(A1-SDA/A4-Pad13).
+Add net unconnected-(A1-D10-Pad25).
+Connected A1 pin 25 to unconnected-(A1-D10-Pad25).
+Add net unconnected-(A1-SCL/A5-Pad32).
+Connected A1 pin 32 to unconnected-(A1-SCL/A5-Pad32).
+Add net unconnected-(A1-A3-Pad12).
+Connected A1 pin 12 to unconnected-(A1-A3-Pad12).
+Add net unconnected-(A1-SCL/A5-Pad14).
+Connected A1 pin 14 to unconnected-(A1-SCL/A5-Pad14).
+Add net unconnected-(A1-AREF-Pad30).
+Connected A1 pin 30 to unconnected-(A1-AREF-Pad30).
+Add net unconnected-(A1-A0-Pad9).
+Connected A1 pin 9 to unconnected-(A1-A0-Pad9).
+Add net unconnected-(A1-D6-Pad21).
+Connected A1 pin 21 to unconnected-(A1-D6-Pad21).
+Add net Net-(A1-+5V).
+Connected A1 pin 5 to Net-(A1-+5V).
+Add net unconnected-(A1-D2-Pad17).
+Connected A1 pin 17 to unconnected-(A1-D2-Pad17).
+Add net Net-(A1-D13).
+Connected A1 pin 28 to Net-(A1-D13).
+Add net unconnected-(A1-GND-Pad6).
+Connected A1 pin 6 to unconnected-(A1-GND-Pad6).
+Add net unconnected-(A1-D12-Pad27).
+Connected A1 pin 27 to unconnected-(A1-D12-Pad27).
+Add net unconnected-(A1-3V3-Pad4).
+Connected A1 pin 4 to unconnected-(A1-3V3-Pad4).
+Add net unconnected-(A1-D0/RX-Pad15).
+Connected A1 pin 15 to unconnected-(A1-D0/RX-Pad15).
+Add net unconnected-(A1-~{RESET}-Pad3).
+Connected A1 pin 3 to unconnected-(A1-~{RESET}-Pad3).
+Add net unconnected-(A1-D8-Pad23).
+Connected A1 pin 23 to unconnected-(A1-D8-Pad23).
+Add net unconnected-(A1-IOREF-Pad2).
+Connected A1 pin 2 to unconnected-(A1-IOREF-Pad2).
+Add net Net-(A1-D9).
+Connected A1 pin 24 to Net-(A1-D9).
+Add net unconnected-(A1-VIN-Pad8).
+Connected A1 pin 8 to unconnected-(A1-VIN-Pad8).
+Add net unconnected-(A1-D3-Pad18).
+Connected A1 pin 18 to unconnected-(A1-D3-Pad18).
+Add net unconnected-(A1-D11-Pad26).
+Connected A1 pin 26 to unconnected-(A1-D11-Pad26).
+Add net unconnected-(A1-A1-Pad10).
+Connected A1 pin 10 to unconnected-(A1-A1-Pad10).
+Add net unconnected-(A1-D5-Pad20).
+Connected A1 pin 20 to unconnected-(A1-D5-Pad20).
+Add net unconnected-(A1-A2-Pad11).
+Connected A1 pin 11 to unconnected-(A1-A2-Pad11).
+Add net unconnected-(A1-D4-Pad19).
+Connected A1 pin 19 to unconnected-(A1-D4-Pad19).
+Add net unconnected-(A1-NC-Pad1).
+Connected A1 pin 1 to unconnected-(A1-NC-Pad1).
+Add net Net-(D1-K).
+Connected A1 pin 7 to Net-(D1-K).
+Add net unconnected-(A1-SDA/A4-Pad31).
+Connected A1 pin 31 to unconnected-(A1-SDA/A4-Pad31).
+Added A1 (footprint 'Module:Arduino_UNO_R3').
+Added D1 (footprint 'LED_THT:LED_D5.0mm_FlatTop').
+Changed REF** reference designator to D1.
+Changed D1 value from LED_D5.0mm_FlatTop to LED.
+Updated D1 symbol association from  to /8ae623db-0845-44b5-bf56-2f6a2c26fca1.
+Updated D1 fields.
+Updated D1 sheetname to 'Root'.
+Updated D1 sheetfile to 'design.kicad_sch'.
+Updated D1 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Connected D1 pin 1 to Net-(D1-K).
+Add net Net-(D1-A).
+Connected D1 pin 2 to Net-(D1-A).
+Changed REF** reference designator to A1.
+Added M1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical').
+Changed REF** reference designator to M1.
+Changed M1 value from PinHeader_1x03_P2.54mm_Vertical to Motor_Servo.
+Updated M1 symbol association from  to /6b78d6f7-16a8-42cc-ab47-d19a676021dc.
+Updated M1 fields.
+Updated M1 sheetname to 'Root'.
+Updated M1 sheetfile to 'design.kicad_sch'.
+Updated M1 footprint filters to 'PinHeader*P2.54mm*'.
+Connected M1 pin 1 to Net-(A1-D9).
+Connected M1 pin 2 to Net-(A1-+5V).
+Connected M1 pin 3 to Net-(M1--).
+Updated A1 symbol association from  to /d1035493-09e8-45eb-b2b2-8179a06d1f51.
+Added R1 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R1.
+Changed R1 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 220.
+Updated R1 symbol association from  to /2bf826f5-8a39-43a3-a5de-0ab291527fc2.
+Updated R1 fields.
+Updated R1 sheetname to 'Root'.
+Updated R1 sheetfile to 'design.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Connected R1 pin 1 to Net-(D1-A).
+Connected R1 pin 2 to Net-(A1-D13).
+
+
+Info: Total warnings: 0, errors: 0.
